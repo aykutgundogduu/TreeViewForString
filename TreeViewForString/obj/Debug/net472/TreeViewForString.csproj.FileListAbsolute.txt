@@ -1,0 +1,9 @@
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\bin\Debug\net472\TreeViewForString.exe.config
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\bin\Debug\net472\TreeViewForString.exe
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\bin\Debug\net472\TreeViewForString.pdb
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\obj\Debug\net472\TreeViewForString.csprojAssemblyReference.cache
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\obj\Debug\net472\TreeViewForString.AssemblyInfoInputs.cache
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\obj\Debug\net472\TreeViewForString.AssemblyInfo.cs
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\obj\Debug\net472\TreeViewForString.csproj.CoreCompileInputs.cache
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\obj\Debug\net472\TreeViewForString.exe
+C:\Users\ayktg\source\repos\TreeViewForString\TreeViewForString\obj\Debug\net472\TreeViewForString.pdb
